@@ -1,0 +1,4 @@
+C	set(['VS_B'])	0.75
+C	set(['IF_A'])	0.75
+C	set(['FT_A'])	0.875
+C	set(['NS_B'])	0.875

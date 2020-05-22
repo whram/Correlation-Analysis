@@ -1,0 +1,31 @@
+B	set(['IF_A'])	0.75
+B	set(['VS_B', 'IF_A'])	0.75
+B	set(['SN_C', 'VS_B', 'IF_A'])	0.75
+B	set(['SN_C', 'IF_A'])	0.75
+B	set(['FT_A', 'IF_A'])	0.75
+B	set(['SN_C', 'FT_A', 'IF_A'])	0.75
+B	set(['FT_A', 'IF_A', 'VS_B'])	0.75
+B	set(['SN_C', 'FT_A', 'IF_A', 'VS_B'])	0.75
+B	set(['IF_A', 'O_C'])	0.75
+B	set(['SN_C', 'IF_A', 'O_C'])	0.75
+B	set(['VS_B', 'IF_A', 'O_C'])	0.75
+B	set(['SN_C', 'VS_B', 'IF_A', 'O_C'])	0.75
+B	set(['FT_A', 'VS_B', 'IF_A', 'O_C'])	0.75
+B	set(['SN_C', 'FT_A', 'VS_B', 'O_C', 'IF_A'])	0.75
+B	set(['FT_A', 'IF_A', 'O_C'])	0.75
+B	set(['SN_C', 'FT_A', 'IF_A', 'O_C'])	0.75
+B	set(['VS_B'])	0.75
+B	set(['VS_B', 'O_C'])	0.75
+B	set(['VS_B', 'FT_A', 'O_C'])	0.75
+B	set(['SN_C', 'VS_B', 'FT_A', 'O_C'])	0.75
+B	set(['SN_C', 'VS_B', 'O_C'])	0.75
+B	set(['VS_B', 'FT_A'])	0.75
+B	set(['SN_C', 'VS_B', 'FT_A'])	0.75
+B	set(['SN_C', 'VS_B'])	0.75
+B	set(['SN_C'])	0.75
+B	set(['SN_C', 'O_C'])	0.75
+B	set(['SN_C', 'FT_A', 'O_C'])	0.75
+B	set(['SN_C', 'FT_A'])	0.75
+B	set(['FT_A'])	1.0
+B	set(['O_C'])	1.0
+B	set(['FT_A', 'O_C'])	1.0
